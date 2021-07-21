@@ -1,1 +1,1 @@
-# fsm-seqdetector
+# Finite State Machine sequence detector
